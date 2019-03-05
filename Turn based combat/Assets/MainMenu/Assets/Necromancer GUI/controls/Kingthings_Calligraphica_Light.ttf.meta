@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 666531431f53a714e9ba03b6b0f1f89f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kingthings Calligraphica Light
+  fontNames:
+  - Kingthings Calligraphica Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3ce4961425d650e42a4222d73f437545, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
